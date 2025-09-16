@@ -1,0 +1,5 @@
+example==>egg sample
+old==>new
+young==>old
+something==>something else
+hello world==>goodnight sky

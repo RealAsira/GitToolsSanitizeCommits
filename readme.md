@@ -22,15 +22,25 @@ NOTE: This does not purge any binary files. This tool only works on UTF-8 TEXT f
 TLDR:
 
 0 - Backups.
+
 (Optional)
+
 1 - Modify and run 1_rewrite_authors.sh
+
 2 - Modify and run 2_validate_authors.sh
+
 (Optional)
+
 3 - Modify and run 3_rewrite_text.sh
+
 4 - Modify and run 4_compare_repos.sh. Validate code still works.
+
 5 - Modify and run 5_origin_reinstate.sh
+
 6 - Modify remote perms to allow overwrite+forcepush without restriction.
+
 7 - Modify and run 6_forcepush_all.sh
+
 8 - Reinstate remote protections.
 
 ### How to Use
